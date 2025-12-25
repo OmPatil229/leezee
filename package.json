@@ -1,0 +1,23 @@
+{
+  "name": "leezee",
+  "version": "1.0.0",
+  "description": "LeeZee Consultancy - Professional Website Creation & AI Solutions",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server"
+  },
+  "keywords": [
+    "website creation",
+    "web design",
+    "local seo",
+    "ai agents",
+    "web development"
+  ],
+  "author": "LeeZee Consultancy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmPatil229/leezee.git"
+  }
+}
